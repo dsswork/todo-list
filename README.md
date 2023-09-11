@@ -16,7 +16,7 @@
     - DOCKER_USER_ID
 4. Run docker compose build
 5. Run docker compose up -d
-6. Run docker exec -it ToDo-app -bash
+6. Run docker exec -it ToDo-app bash
 7. Run composer install
 8. Run php artisan key:generate
 9. Run php artisan migrate
